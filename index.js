@@ -28,7 +28,9 @@ app.use(express.static('./ebook-folder/site'))
 // may need to include images later....
 
 app.listen(port, () => {
-  console.log(`Web server is listening on port ${port}!`);
+  if(process.env !== "PRODUCTION") {
+    console.log(`Web server is listening on port ${port}!`);
+  }
 });
 
 // Return to this approach later:

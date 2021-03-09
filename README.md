@@ -39,6 +39,12 @@ To be able to edit the ebook you will need to follow these steps first:
 
 Heroku will need some environment variables to perform authentication checks. Add them as you would the variables in `.env` file using [he CLI tools or the dashboard](https://devcenter.heroku.com/articles/config-vars).
 
+* `ENVIRONMENT` : `PRODUCTION`
+*  `STUDENT_USERNAME` : `<a-username>`
+*  `STUDENT_PASSWORD` : `<a-password>`
+*  `INSTRUCTOR_USERNAME` : `<a-username>`
+*  `INSTRUCTOR_PASSWORD` : `<a-password>`
+
 How to install Python and pip instructions here:
 
 ## Functional Overview

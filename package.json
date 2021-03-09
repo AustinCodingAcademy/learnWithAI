@@ -1,7 +1,7 @@
 {
-  "name": "auth-mkdocs-material-ebook",
+  "name": "material-mkdocs-ebook-template",
   "version": "1.0.0",
-  "description": "A Node Express App that serves Material styled static file with Basic Auth",
+  "description": "A Node Express App that serves Material styled static files using Mkdocs generator with Basic Authentication.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HippErger/node-auth-mkdocs-material-ebook.git"
+    "url": "git+https://github.com/AustinCodingAcademy/material-mkdocs-ebook-template.git"
   },
   "author": "Clayton Berger",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HippErger/node-auth-mkdocs-material-ebook/issues"
+    "url": "https://github.com/AustinCodingAcademy/material-mkdocs-ebook-template.git/issues"
   },
-  "homepage": "https://github.com/HippErger/node-auth-mkdocs-material-ebook#readme",
+  "homepage": "https://github.com/AustinCodingAcademy/material-mkdocs-ebook-template.git#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
