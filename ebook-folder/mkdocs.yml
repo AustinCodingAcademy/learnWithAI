@@ -1,8 +1,15 @@
 # TODO replace name with name of ebook: 101: Intro to Web, 411: Front-Ends with React...etc
 site_name: ebook-name
 
+# TODO inside `ebook-folder/`
+# TODO run `git clone https://github.com/squidfunk/mkdocs-material.git`
+# TODO run `pip install -r requirements.txt`
 # TODO run `mkdocs build` to build the static files into "/site"
-# TODO run `mkdocs serve` to serve those files on port 8000
+# TODO run `mkdocs serve` to serve those files 
+# TODO view at http://127.0.0.1:8000
+# TODO replace all CAPITALIZED words with appropriate titles
+# ! Use the files in workspace/resources to quickly generate class and lesson templates, see `cp ...` script at bottom of each file
+# ! Use the folder workspace/developmentDocumentation to record thoughts and future improvements
 
 # defines where the markdown to build from
 # docs_dir: 'test-node-book'
@@ -18,33 +25,47 @@ nav:
     - Home: 'index.md'
     - 'Module One: TITLE':
       - 'Pre-Class 1 Lessons': 
-        - Intro to Material-Mkdocs: module-1/pre-class-lessons/lessonOutlineTemplate.md
-        - LESSON TITLE: module-1/pre-class-lessons/lessonOutlineTemplate.md
-        - LESSON TITLE: module-1/pre-class-lessons/lessonOutlineTemplate.md
-        - Class 1 TITLE: module-1/class-plans/classOutlineTemplate.md
+        - Intro to Material-Mkdocs: module-1/lessonOutlineTemplate.md
+        - Class 1 TITLE: module-1/classOutlineTemplate.md
       - 'Pre-Class 2 Lesson': 
-        - LESSON TITLE: module-1/pre-class-lessons/lessonOutlineTemplate.md
-        - LESSON TITLE: module-1/pre-class-lessons/lessonOutlineTemplate.md
-        - LESSON TITLE: module-1/pre-class-lessons/lessonOutlineTemplate.md
-        - Class 2 TITLE: module-1/class-plans/classOutlineTemplate.md
-    - 'Module Two: TITLE': 
-      - 'Pre-Class 5 Lessons': 
-        - LESSON TITLE: module-2/pre-class-lessons/lessonOutlineTemplate.md
-        - LESSON TITLE: module-2/pre-class-lessons/lessonOutlineTemplate.md
-        - LESSON TITLE: module-2/pre-class-lessons/lessonOutlineTemplate.md
-        - Class 5 TITLE: module-2/class-plans/classOutlineTemplate.md
-      - 'Pre-Class 6 Lessons': 
-        - LESSON TITLE: module-2/pre-class-lessons/lessonOutlineTemplate.md
-        - LESSON TITLE: module-2/pre-class-lessons/lessonOutlineTemplate.md
-        - LESSON TITLE: module-2/pre-class-lessons/lessonOutlineTemplate.md 
-        - Class 6 TITLE: module-2/class-plans/classOutlineTemplate.md
-
+        - LESSON TITLE: module-1/lessonOutlineTemplate.md
+        - Class 2 TITLE: module-1/classOutlineTemplate.md
+      # - 'Pre-Class 3 Lesson': 
+      # - 'Pre-Class 4 Lesson': 
+    # - 'Module Two: TITLE': 
+      # - 'Pre-Class 5 Lessons': 
+        # - Class 5 TITLE: module-2/classOutlineTemplate.md
+        # - 'Pre-Class 6 Lesson': 
+        # - 'Pre-Class 7 Lesson': 
+        # - 'Pre-Class 8 Lesson': 
+      # - 'Module Three: TITLE': 
+        # - 'Pre-Class 9 Lesson': 
+        # - 'Pre-Class 10 Lesson': 
+        # - 'Pre-Class 11 Lesson': 
+        # - 'Pre-Class 12 Lesson': 
+      # - 'Module Four: TITLE':
+        # - 'Pre-Class 13 Lesson': 
+        # - 'Pre-Class 14 Lesson': 
+        # - 'Pre-Class 15 Lesson': 
+        # - 'Pre-Class 16 Lesson':  
+    - 'Additional Resources':
+      - Interview Training: additionalResources/interviewChallenges.md
+      - Student Presentations: additionalResources/studentPresentations.md
+      - Develop Series Collection: additionalResources/developSeries.md
+      - 'Questions for Discussion Collections':
+        - Day 1 QFD: additionalResources/questionsForDiscussion/qfd-class-1.md
+      - Blog Prompts: additionalResources/blogPrompts.md
+      - Keyboard Shortcuts: additionalResources/keyboardShortcuts.md
+      - Git Commands: additionalResources/gitCommands.md
+      - Graduation Prerequisites: additionalResources/graduationPrerequisites.md
+      - Presentations Qualifications: additionalResources/presentationsQualifications.md
+      # - 'Bonus Materials':
 
 
 # defines the styles, usually just a single name but `custom_dir` overrides this behavior
 theme:
-  name: null
-  custom_dir: mkdocs-material/material
+  name: material
+  # was null
   palette:
     scheme: slate
     primary: black

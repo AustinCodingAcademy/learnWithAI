@@ -29,6 +29,8 @@ To be able to edit the ebook you will need to follow these steps first:
   ```
 
 8. `cd ..` to root director and run `npm start` - to serve files from `site/` to port 5500 **with** username:password authentication
+9. Go to `ebook-folder/mkdocs.yml` for further instructions + see `ebook-folder/workspace`
+10. While working in `ebook-folder` you can simply use `mkdocs build` and `mkdocs serve` to by-pass the Node server.
 
 ## To Deploy
 
