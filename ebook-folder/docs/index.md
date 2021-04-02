@@ -172,7 +172,7 @@ The presentation should **NOT** include:
 <!-- As you build out lectures in either powerpoint or google slides, make them a link here -->
 
 <!-- References for all instructors in the future -->
-1. [Lesson 1](./module-1/pre-class-lessons/lessonOutlineTemplate.md)
+<!-- 1. [Lesson 1](./module-1/pre-class-lessons/lessonOutlineTemplate.md) -->
 <!-- 1. [Lesson 2](01Week/02DayPrep.md)
 1. [Lesson 3](02Week/01DayPrep.md)
 1. [Lesson 4](02Week/02DayPrep.md)

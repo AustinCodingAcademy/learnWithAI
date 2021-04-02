@@ -1,1 +1,1 @@
-# Class One: Questions for Discussion
+# Class One - Questions for Discussion

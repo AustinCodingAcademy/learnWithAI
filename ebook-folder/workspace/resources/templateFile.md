@@ -1,29 +1,35 @@
-# Subject
+# TITLE
 
-<!-- *STARLING QUOTE -Author* -->
+**
 
-## Example 2
+## Overview
+<!-- ! Video Contents:  (width="655" height="368", ratio 1.77) -->
 
-```javascript
+## Practice It
 
-```
+<!-- [Try it yourself](https://replit.com)! -->
+<!-- [Try it yourself](https://codepen.io)! -->
+
+## Additional Resources
+
+- [ ] [YT, tuber - title]()
 
 ## Know Your Docs
 
-* [MDN Docs - ...]()
+- [ ] [MDN Docs - title]()
+
+
+<!-- ! END OF VIDEO 101.1.3.1 - TITLE-->
+<!-- ? Video Numbering and Title system: CourseNumber.ModuleNumber.LessonNumber.VideoNumber -->
+<!-- * (VIDEO 101.2.4.3 - "CSS Selectors") === 101 Course, Module 2, Lesson 4, Video 3 - "CSS Selectors" -->
 
 <!-- 
-## Additional Resources
+
+cp workspace/resources/templateFile.md docs/module- 
 
 ```javascript
 
 ```
-
-- [ ] Task Two
-    *  [ ] Task Two.a
-    *  [ ] Task Two.b
-    *  [ ] Task Two.c
-
 
 | Method      | Description                          |
 | ----------- | ------------------------------------ |
@@ -32,26 +38,11 @@
 | `DELETE`    | Delete resource |
 
 
-* [MDN Docs - ...]()
-
-- [ ] ...
-- [ ] ...
-
-
-```javascript
-
-``` 
-
-- [ ] ...
-- [ ] ...
-  * [ ] ...
-  * [ ] ... 
-
     `line numbers`
 :do you like 'em?
 
-++slash++
 
+++slash++
 https://facelessuser.github.io/pymdown-extensions/extensions/keys/
 
 === "Javascript"
@@ -64,8 +55,6 @@ https://facelessuser.github.io/pymdown-extensions/extensions/keys/
   ```python
   ```
 
-### Prompt 3:
-
 === "Example"
     ```console
       .
@@ -76,13 +65,6 @@ https://facelessuser.github.io/pymdown-extensions/extensions/keys/
       .
     ```
 
-=== "Push Yourself Further"
-    ```markdown
-      .
-    ```
-
-cp workspace/resources/templateFile.md docs/module-
-
-height/width = 1.777 ---- width="655" height="368"
-
+=== "Result"
+    ![PIC](./../images/pic.png)
 -->
