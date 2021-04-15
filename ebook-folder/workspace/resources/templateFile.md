@@ -3,7 +3,7 @@
 **
 
 ## Overview
-<!-- ! Video Contents:  (width="655" height="368", ratio 1.77) -->
+
 
 ## Practice It
 
@@ -22,6 +22,7 @@
 <!-- ! END OF VIDEO 101.1.3.1 - TITLE-->
 <!-- ? Video Numbering and Title system: CourseNumber.ModuleNumber.LessonNumber.VideoNumber -->
 <!-- * (VIDEO 101.2.4.3 - "CSS Selectors") === 101 Course, Module 2, Lesson 4, Video 3 - "CSS Selectors" -->
+<!-- ! Video Contents:  width="655" height="368" -->
 
 <!-- 
 
