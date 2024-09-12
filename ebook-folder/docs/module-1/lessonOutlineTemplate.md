@@ -6,7 +6,7 @@ In this course we'll be learning how to build websites. No, not apps yet but tru
 
 ### What is the Internet?
 
-The internet is a continuous connection of various computer and devices that includes your phone, computer, watch, and doorbell. More here...
+The internet is a continuous connection of various computers and devices that includes your phone, computer, watch, and doorbell, etc...
 
 ### How Does it Work?
 
